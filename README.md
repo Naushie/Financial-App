@@ -1,2 +1,5 @@
 # Financial-App
-Phybergate mentoring Finanacial-App, demonstrating the use of Spring with Thymeleaf and git for version Control
+Phybergate mentoring Finanacial-App, demonstrating the use of Spring with Thymeleaf and git for version Control, maven to build.
+
+To use this project do the following:
+1. git clone https://github.com/Naushie/Financial-App.git
